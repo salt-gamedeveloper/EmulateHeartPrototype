@@ -1,0 +1,67 @@
+{
+  "EventList": [
+    {
+      "_eventId": 0,
+      "_eventName": "イベントなし",
+      "_eventDescription": "イベントなし",
+      "_eventType": 0,
+      "_probability": 0.1,
+      "_timeOfDay": 0,
+      "_locationType": 0
+    },
+    {
+      "_eventId": 1,
+      "_eventName": "朝の挨拶",
+      "_eventDescription": "キャラクターが朝の挨拶をしてくれるイベント。",
+      "_eventType": 1,
+      "_probability": 0.3,
+      "_timeOfDay": 1,
+      "_locationType": 1
+    },
+    {
+      "_eventId": 2,
+      "_eventName": "一緒にランチ",
+      "_eventDescription": "昼に一緒にランチを楽しむイベント。",
+      "_eventType": 2,
+      "_probability": 0.2,
+      "_timeOfDay": 2,
+      "_locationType": 4
+    },
+    {
+      "_eventId": 3,
+      "_eventName": "街での買い物",
+      "_eventDescription": "街でキャラクターとショッピングを楽しむイベント。",
+      "_eventType": 4,
+      "_probability": 0.2,
+      "_timeOfDay": 0,
+      "_locationType": 3
+    },
+    {
+      "_eventId": 4,
+      "_eventName": "読書の時間",
+      "_eventDescription": "夜に寝室で本を読みながら語り合うイベント。",
+      "_eventType": 1,
+      "_probability": 0.3,
+      "_timeOfDay": 4,
+      "_locationType": 2
+    },
+    {
+      "_eventId": 5,
+      "_eventName": "特別なプレゼント",
+      "_eventDescription": "キャラクターからプレゼントをもらえる特別なイベント。",
+      "_eventType": 3,
+      "_probability": 0.1,
+      "_timeOfDay": 2,
+      "_locationType": 0
+    },
+    {
+      "_eventId": 6,
+      "_eventName": "突然の来客",
+      "_eventDescription": "夜に誰かが家を訪れるイベント。",
+      "_eventType": 5,
+      "_probability": 0.1,
+      "_timeOfDay": 4,
+      "_locationType": 1
+    }
+  ]
+}

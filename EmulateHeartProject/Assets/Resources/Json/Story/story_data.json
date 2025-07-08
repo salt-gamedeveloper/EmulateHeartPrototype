@@ -1,0 +1,126 @@
+{
+    "_allStory": [
+        {
+            "_storyId": "day1_home_morning",
+            "_day": 1,
+            "_timeOfDay": "Morning",
+            "_subtitle": "冒険の始まり",
+            "_singleStory": [
+                {
+                    "_locationName": "自宅",
+                    "_locationType": "Home",
+                    "_messageType": "Player",
+                    "_message": "おはよう。\n今日から本格的に冒険を始めることになったよ。",
+                    "_speakerName": "主人公",
+                    "_leftCharacterFileId": "Ch1_1",
+                    "_centerCharacterFileId": "",
+                    "_rightCharacterFileId": "Ch1_2"
+                },
+                {
+                    "_locationName": "自宅",
+                    "_locationType": "Home",
+                    "_messageType": "AI",
+                    "_message": "準備はちゃんとできてる？\n忘れ物がないように気をつけてね。",
+                    "_speakerName": "仲間",
+                    "_leftCharacterFileId": "Ch1_1",
+                    "_centerCharacterFileId": "",
+                    "_rightCharacterFileId": "Ch1_2"
+                },
+                {
+                    "_locationName": "自宅",
+                    "_locationType": "Home",
+                    "_messageType": "Player",
+                    "_message": "うん、大丈夫。\n地図も持ったし、薬草もたくさん買っておいたよ。",
+                    "_speakerName": "主人公",
+                    "_leftCharacterFileId": "Ch1_1",
+                    "_centerCharacterFileId": "",
+                    "_rightCharacterFileId": ""
+                },
+                {
+                    "_locationName": "街",
+                    "_locationType": "City",
+                    "_messageType": "AI",
+                    "_message": "それなら安心だね。\n無理しないように気をつけて行ってきて！",
+                    "_speakerName": "仲間",
+                    "_leftCharacterFileId": "",
+                    "_centerCharacterFileId": "Ch1_2",
+                    "_rightCharacterFileId": ""
+                },
+                {
+                    "_locationName": "自宅",
+                    "_locationType": "Home",
+                    "_messageType": "Player",
+                    "_message": "ありがとう。\n君がいてくれるから心強いよ。",
+                    "_speakerName": "主人公",
+                    "_leftCharacterFileId": "Ch1_1",
+                    "_centerCharacterFileId": "",
+                    "_rightCharacterFileId": "Ch1_2"
+                },
+                {
+                    "_locationName": "自宅",
+                    "_locationType": "Home",
+                    "_messageType": "AI",
+                    "_message": "……ふふ、そんなこと言われると照れちゃうな。\nでも本当に応援してるからね。",
+                    "_speakerName": "仲間",
+                    "_leftCharacterFileId": "",
+                    "_centerCharacterFileId": "Ch1_2",
+                    "_rightCharacterFileId": ""
+                },
+                {
+                    "_locationName": "街",
+                    "_locationType": "City",
+                    "_messageType": "Player",
+                    "_message": "そうだ、旅に出る前に、君にこれを渡しておきたかったんだ。",
+                    "_speakerName": "主人公",
+                    "_leftCharacterFileId": "",
+                    "_centerCharacterFileId": "",
+                    "_rightCharacterFileId": "Ch1_2"
+                },
+                {
+                    "_locationName": "街",
+                    "_locationType": "City",
+                    "_messageType": "AI",
+                    "_message": "えっ、これは……お守り？\n私のために？",
+                    "_speakerName": "仲間",
+                    "_leftCharacterFileId": "",
+                    "_centerCharacterFileId": "Ch1_2",
+                    "_rightCharacterFileId": ""
+                },
+                {
+                    "_locationName": "街",
+                    "_locationType": "City",
+                    "_messageType": "Player",
+                    "_message": "うん。君の無事を祈って作ったんだ。\nこれからも、無事でいてほしいから。",
+                    "_speakerName": "主人公",
+                    "_leftCharacterFileId": "Ch1_1",
+                    "_centerCharacterFileId": "",
+                    "_rightCharacterFileId": ""
+                },
+                {
+                    "_locationName": "街",
+                    "_locationType": "City",
+                    "_messageType": "AI",
+                    "_message": "……ありがとう。\n私も、あなたが無事に帰ってくるのをずっと待ってるからね。",
+                    "_speakerName": "仲間",
+                    "_leftCharacterFileId": "",
+                    "_centerCharacterFileId": "Ch1_2",
+                    "_rightCharacterFileId": ""
+                }
+            ]
+        },
+        {
+            "_storyId": "day1_forest_night",
+            "_storyTitle": "Day1 | 夜 | 森",
+            "_singleStory": [
+                {
+                    "_messageType": "system",
+                    "_message": "森の中は薄暗く不気味だった。",
+                    "_speakerName": "",
+                    "_leftCharacterFileId": "",
+                    "_centerCharacterFileId": "",
+                    "_rightCharacterFileId": ""
+                }
+            ]
+        }
+    ]
+}

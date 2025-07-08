@@ -1,0 +1,20 @@
+{
+    "_aiProfile": {
+        "_name": "データなし",
+        "_age": "データなし",
+        "_gender": "データなし",
+        "_tone": "データなし",
+        "_firstPerson": "データなし",
+        "_favorite": "データなし",
+        "_hate": "データなし"
+    },
+    "_playerProfile": {
+        "_name": "データなし",
+        "_age": "データなし",
+        "_gender": "データなし",
+        "_tone": "データなし",
+        "_firstPerson": "データなし",
+        "_favorite": "データなし",
+        "_hate": "データなし"
+    }
+}

@@ -1,0 +1,16 @@
+bg_living_daytime,living_morning
+bg_living_daytime,living_afternoon
+bg_living_dusk,living_evening
+bg_living_night_illuminated,living_night
+bg_airoom_daytime,airoom_morning
+bg_airoom_daytime,airoom_afternoon
+bg_airoom_dusk,airoom_evening
+bg_airoom_night_illuminated,airoom_night
+bg_town_daytime,town_morning
+bg_town_daytime,town_afternoon
+bg_town_dusk,town_evening
+bg_town_night_illuminated,town_night
+bg_park_daytime,park_morning
+bg_park_daytime,park_afternoon
+bg_park_dusk,park_evening
+bg_park_night_illuminated,park_night
